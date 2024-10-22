@@ -17,16 +17,10 @@ This is a simple blog web application built with Node.js, Express.js, and EJS. T
 - **EJS**: Templating engine for rendering dynamic HTML.
 - **Bootstrap**: CSS framework for responsive design.
 
-## Getting Started
 
-### Prerequisites
 
-Make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-
-### Installation
+## Installation
 
 1. Clone the repository:
 
