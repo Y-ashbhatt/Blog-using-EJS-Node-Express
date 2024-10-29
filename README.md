@@ -18,8 +18,6 @@ This is a simple blog web application built with Node.js, Express.js, and EJS. T
 - **Bootstrap**: CSS framework for responsive design.
 
 
-
-
 ## Installation
 
 1. Clone the repository:
@@ -31,10 +29,11 @@ git clone https://github.com/YashBhatt30/blog-web-app.git
 2. Navigate to the project directory:
 
 ```bash
-
 cd blog-web-app
 ```
+
 3. Install the dependencies:
+
 ```bash
 npm install
 ```
@@ -52,7 +51,6 @@ The application will be accessible at [http://localhost:3000](http://localhost:3
 
 ## What I Learned
 
-This project taught me several valuable skills:
 
 - **Node.js and Express Basics**: I learned how to set up a basic web server using Node.js and Express.js, manage routes, and handle user input from forms.
 - **Templating with EJS**: I understood how to generate dynamic HTML using EJS, which allows me to insert data into templates and manage front-end content more efficiently.
