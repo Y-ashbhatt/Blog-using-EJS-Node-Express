@@ -1,4 +1,3 @@
-
 # Blog Web Application
 
 This is a simple blog web application built with Node.js, Express.js, and EJS. The application allows users to create, view, edit, and delete blog posts. Posts are temporarily stored in memory and do not persist between sessions.
@@ -16,7 +15,6 @@ This is a simple blog web application built with Node.js, Express.js, and EJS. T
 - **Express.js**: Web framework for building web applications in Node.js.
 - **EJS**: Templating engine for rendering dynamic HTML.
 - **Bootstrap**: CSS framework for responsive design.
-
 
 ## Installation
 
@@ -38,7 +36,6 @@ cd blog-web-app
 npm install
 ```
 
-
 ## Application Access
 
 The application will be accessible at [http://localhost:3000](http://localhost:3000).
@@ -50,7 +47,6 @@ The application will be accessible at [http://localhost:3000](http://localhost:3
 - You can edit or delete posts directly from the post view.
 
 ## What I Learned
-
 
 - **Node.js and Express Basics**: I learned how to set up a basic web server using Node.js and Express.js, manage routes, and handle user input from forms.
 - **Templating with EJS**: I understood how to generate dynamic HTML using EJS, which allows me to insert data into templates and manage front-end content more efficiently.
